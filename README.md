@@ -335,7 +335,5 @@ Os casos de uso e a camada de persistência/HTTP (a partir da introdução de `T
 
 ## Autor
 
-**Arthur Haerdy Jr.**
-
 - LinkedIn: [linkedin.com/in/arthur-haerdy-jr](https://www.linkedin.com/in/arthur-haerdy-jr/)
 - GitHub: [github.com/ahaerdy](https://github.com/ahaerdy)
